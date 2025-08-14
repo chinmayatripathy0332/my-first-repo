@@ -5,3 +5,4 @@ v3 from GitHub
 conflict from master
 =======
 >>>>>>> feature/readme-note
+conflict from master
