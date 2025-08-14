@@ -7,3 +7,4 @@ conflict from master
 >>>>>>> feature/readme-note
 New branch work
 This is from demo branch
+This is from demo branch
